@@ -1,0 +1,1 @@
+alter table USER alter column GMT_CRATE rename to GMT_CREATE;
